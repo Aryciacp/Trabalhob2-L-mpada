@@ -1,1 +1,2 @@
-# Trabalhob2-L-mpada
+A ideia inicial era criar um site simples contendo uma lâmpada que podia ser acessa e apagada atráves de dois botons em baixo, mas ao fazer o Jvsc surgiu a ideia de quando a pessoa passasse o mouse por cima a lâmpada também acenderia, e ao cliclar duas vezes em cima da mesma ela quebraria impossibilitando assim ela volar ser acessa ou apagada. Analisando a responsividade do site, notei que o mesmo já se adaptava direito de acordo com o tamanho do site no celular e no computador por apenas ter uma imagem e dois botões, não necessitando então de um códico para alterar o tamanho dos pixels.
+
